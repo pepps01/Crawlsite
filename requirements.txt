@@ -1,6 +1,6 @@
 bs4==0.0.1
 beautifulsoup4==4.9.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 Django==3.0.7
 drf-yasg==1.17.1
 django-heroku
