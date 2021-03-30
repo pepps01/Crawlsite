@@ -1,7 +1,7 @@
 bs4==0.0.1
 beautifulsoup4==4.9.1
 djangorestframework==3.11.0
-Django==3.0.7
+Django==3.0.12
 drf-yasg==1.17.1
 django-heroku
 gunicorn
